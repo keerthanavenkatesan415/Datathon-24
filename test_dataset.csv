@@ -1,0 +1,129 @@
+"Movie.Title","Movie.Year","Runtime","Genre","Rating","Director","Votes","Gross","Rating_Votes","pred_Gross"
+"Alien",1979,117,"Horror, Sci-Fi",8.5,"Ridley Scott",905275,78.9,7694837.5,91.0942857142857
+"The Shining",1980,146,"Drama, Horror",8.4,"Stanley Kubrick",1051582,44.02,8833288.8,91.0942857142857
+"Let the Right One In",2008,114,"Drama, Fantasy, Horror",7.9,"Tomas Alfredson",221604,2.12,1750671.6,13.1175
+"Night of the Living Dead",1968,96,"Horror, Thriller",7.8,"George A. Romero",133452,0.09,1040925.6,13.1175
+"The Bride of Frankenstein",1935,75,"Drama, Horror, Sci-Fi",7.8,"James Whale",50611,4.36,394765.8,8.25686274509804
+"Saw",2004,103,"Horror, Mystery, Thriller",7.6,"James Wan",436144,56,3314694.4,64.7326086956522
+"28 Days Later",2002,113,"Drama, Horror, Sci-Fi",7.5,"Danny Boyle",425705,45.06,3192787.5,64.7326086956522
+"Grindhouse",2007,191,"Action, Horror, Thriller",7.5,"Robert Rodriguez",187623,25.04,1407172.5,13.1175
+"Godzilla",1954,96,"Horror, Sci-Fi",7.5,"Ishirô Honda",35705,2.42,267787.5,8.25686274509804
+"Jacob's Ladder I",1990,113,"Drama, Horror, Mystery",7.4,"Adrian Lyne",113045,26.12,836533,51.9815966386555
+"The Devil's Backbone",2001,106,"Drama, Horror, Thriller",7.4,"Guillermo del Toro",68728,0.75,508587.2,8.25686274509804
+"Bhool Bhulaiyaa",2007,159,"Comedy, Horror, Mystery",7.4,"Priyadarshan",30282,1.07,224086.8,8.25686274509804
+"Doctor Sleep",2019,152,"Drama, Fantasy, Horror",7.3,"Mike Flanagan",202482,31.58,1478118.6,51.9815966386555
+"The Conjuring 2",2016,134,"Horror, Mystery, Thriller",7.3,"James Wan",282543,102.47,2062563.9,60.5814285714286
+"Eraserhead",1977,89,"Fantasy, Horror",7.3,"David Lynch",121484,7,886833.2,51.9815966386555
+"A Quiet Place Part II",2020,97,"Drama, Horror, Sci-Fi",7.2,"John Krasinski",248967,160.07,1792562.4,51.9815966386555
+"Dead Ringers",1988,116,"Drama, Horror, Thriller",7.2,"David Cronenberg",50992,9.13,367142.4,8.25686274509804
+"Little Shop of Horrors",1986,94,"Comedy, Horror, Musical",7.1,"Frank Oz",80770,38.75,573467,8.25686274509804
+"Let Me In I",2010,116,"Drama, Fantasy, Horror",7.1,"Matt Reeves",124539,12.13,884226.9,51.9815966386555
+"Cube",1997,90,"Drama, Horror, Mystery",7.1,"Vincenzo Natali",239015,0.5,1697006.5,51.9815966386555
+"The Frighteners",1996,110,"Comedy, Fantasy, Horror",7.1,"Peter Jackson",91980,16.76,653058,8.25686274509804
+"The Host",2006,120,"Drama, Horror, Sci-Fi",7.1,"Bong Joon Ho",127160,2.2,902836,51.9815966386555
+"The Monster Squad",1987,79,"Action, Comedy, Fantasy",6.9,"Fred Dekker",33711,3.77,232605.9,8.25686274509804
+"Annihilation I",2018,115,"Adventure, Drama, Horror",6.8,"Alex Garland",340306,32.73,2314080.8,142.995
+"Hellboy",2004,122,"Action, Adventure, Fantasy",6.8,"Guillermo del Toro",338908,59.62,2304574.4,142.995
+"Blade II",2002,117,"Action, Horror, Sci-Fi",6.7,"Guillermo del Toro",225970,82.35,1513999,51.9815966386555
+"Candyman",1992,99,"Horror, Thriller",6.7,"Bernard Rose",95591,25.79,640459.7,8.25686274509804
+"Turbo Kid",2015,93,"Action, Adventure, Comedy",6.7,"François Simard",28926,0.05,193804.2,8.25686274509804
+"Fido",2006,93,"Comedy, Drama, Horror",6.7,"Andrew Currie",29699,0.3,198983.3,8.25686274509804
+"Resident Evil",2002,100,"Action, Horror, Sci-Fi",6.6,"Paul W.S. Anderson",279094,40.12,1842020.4,64.7326086956522
+"From Beyond",1986,85,"Horror, Sci-Fi",6.6,"Stuart Gordon",28213,1.26,186205.8,8.25686274509804
+"Psycho II",1983,113,"Crime, Horror, Mystery",6.6,"Richard Franklin",28989,34.73,191327.4,8.25686274509804
+"Phantasm",1979,89,"Horror, Sci-Fi",6.6,"Don Coscarelli",39050,11.99,257730,8.25686274509804
+"The Hunt II",2020,90,"Action, Horror, Thriller",6.5,"Craig Zobel",120400,5.81,782600,51.9815966386555
+"Insidious: Chapter 2",2013,106,"Horror, Mystery, Thriller",6.5,"James Wan",177423,83.59,1153249.5,51.9815966386555
+"The Blair Witch Project",1999,81,"Horror, Mystery",6.5,"Daniel Myrick",271349,140.54,1763768.5,64.7326086956522
+"The Endless I",2017,111,"Drama, Fantasy, Horror",6.5,"Justin Benson",46030,0.27,299195,8.25686274509804
+"Pet Sematary",1989,103,"Fantasy, Horror, Thriller",6.5,"Mary Lambert",109162,57.47,709553,51.9815966386555
+"Arachnophobia",1990,109,"Comedy, Horror, Thriller",6.5,"Frank Marshall",72630,53.21,472095,8.25686274509804
+"The Witches of Eastwick",1987,118,"Comedy, Fantasy, Horror",6.5,"George Miller",73547,63.77,478055.5,8.25686274509804
+"A Cure for Wellness",2016,146,"Drama, Fantasy, Horror",6.4,"Gore Verbinski",104306,8.11,667558.4,8.25686274509804
+"The Cell",2000,107,"Crime, Horror, Sci-Fi",6.4,"Tarsem Singh",105734,61.33,676697.6,8.25686274509804
+"The Serpent and the Rainbow",1988,98,"Fantasy, Horror",6.4,"Wes Craven",26707,19.6,170924.8,8.25686274509804
+"Tale of Tales",2015,134,"Drama, Fantasy, Horror",6.4,"Matteo Garrone",29867,0.08,191148.8,8.25686274509804
+"Silver Bullet",1985,95,"Horror",6.4,"Daniel Attias",29605,5.4,189472,8.25686274509804
+"Unsane",2018,98,"Drama, Horror, Mystery",6.4,"Steven Soderbergh",48245,7.73,308768,8.25686274509804
+"Night Watch",2004,114,"Action, Fantasy, Horror",6.4,"Timur Bekmambetov",54703,1.49,350099.2,8.25686274509804
+"Scream I",2022,114,"Horror, Mystery, Thriller",6.3,"Matt Bettinelli-Olpin",138199,81.64,870653.7,51.9815966386555
+"Under the Skin I",2013,108,"Drama, Horror, Mystery",6.3,"Jonathan Glazer",149804,2.61,943765.2,51.9815966386555
+"Scream 2",1997,120,"Horror, Mystery",6.3,"Wes Craven",197955,101.36,1247116.5,51.9815966386555
+"Paranormal Activity",2007,86,"Horror, Mystery",6.3,"Oren Peli",247532,107.92,1559451.6,51.9815966386555
+"Mindhunters",2004,106,"Crime, Horror, Thriller",6.3,"Renny Harlin",62706,4.48,395047.8,36.1348695652174
+"Dead Snow",2009,91,"Comedy, Fantasy, Horror",6.3,"Tommy Wirkola",68631,0.04,432375.3,36.1348695652174
+"Tideland",2005,120,"Drama, Fantasy, Horror",6.3,"Terry Gilliam",34068,0.07,214628.4,16.4913392857143
+"The Visit I",2015,94,"Horror, Mystery, Thriller",6.2,"M. Night Shyamalan",142097,65.21,881001.4,51.9815966386555
+"Jeepers Creepers",2001,90,"Horror, Mystery",6.2,"Victor Salva",135446,37.9,839765.2,51.9815966386555
+"Mama I",2013,100,"Fantasy, Horror, Thriller",6.2,"Andy Muschietti",186159,71.63,1154185.8,51.9815966386555
+"Final Destination 2",2003,90,"Horror, Thriller",6.2,"David R. Ellis",174051,46.96,1079116.2,51.9815966386555
+"Killer Klowns from Outer Space",1988,88,"Comedy, Horror, Sci-Fi",6.2,"Stephen Chiodo",41538,15.63,257535.6,16.4913392857143
+"Vacancy",2007,85,"Horror, Thriller",6.2,"Nimród Antal",104096,19.36,645395.2,36.1348695652174
+"Land of the Dead",2005,93,"Horror, Sci-Fi, Thriller",6.2,"George A. Romero",98740,20.7,612188,36.1348695652174
+"Damien: Omen II",1978,107,"Horror",6.2,"Don Taylor",33729,3.88,209119.8,16.4913392857143
+"Pumpkinhead",1988,86,"Fantasy, Horror",6.2,"Stan Winston",25833,4.39,160164.6,16.4913392857143
+"Krampus I",2015,98,"Comedy, Drama, Fantasy",6.2,"Michael Dougherty",79013,42.59,489880.6,36.1348695652174
+"Needful Things",1993,120,"Crime, Drama, Fantasy",6.2,"Fraser C. Heston",26291,15.19,163004.2,16.4913392857143
+"Wrong Turn I",2003,84,"Horror, Thriller",6.1,"Rob Schmidt",125830,15.42,767563,51.9815966386555
+"Resident Evil: Apocalypse",2004,94,"Action, Horror, Sci-Fi",6.1,"Alexander Witt",204741,51.2,1248920.1,51.9815966386555
+"Mirrors I",2008,110,"Horror, Mystery",6.1,"Alexandre Aja",110546,30.69,674330.6,51.9815966386555
+"Critters",1986,86,"Comedy, Horror, Sci-Fi",6.1,"Stephen Herek",37388,13.17,228066.8,16.4913392857143
+"Deep Rising",1998,106,"Action, Adventure, Horror",6.1,"Stephen Sommers",39064,11.2,238290.4,16.4913392857143
+"Cujo",1983,93,"Horror, Thriller",6.1,"Lewis Teague",48166,21.2,293812.6,16.4913392857143
+"Red State",2011,88,"Action, Crime, Horror",6.1,"Kevin Smith",65843,1.1,401642.3,36.1348695652174
+"Bug",2006,102,"Drama, Horror, Thriller",6.1,"William Friedkin",36331,7.01,221619.1,16.4913392857143
+"Hobo with a Shotgun",2011,86,"Action, Comedy, Horror",6.1,"Jason Eisener",47548,0.7,290042.8,16.4913392857143
+"The Boy",2016,97,"Horror, Mystery, Thriller",6,"William Brent Bell",97224,35.82,583344,36.1348695652174
+"The Purge: Election Year",2016,108,"Action, Horror, Sci-Fi",6,"James DeMonaco",105370,79.21,632220,36.1348695652174
+"Captive State",2019,109,"Action, Horror, Sci-Fi",6,"Rupert Wyatt",55880,5.96,335280,36.1348695652174
+"V/H/S/2",2013,96,"Horror, Sci-Fi",6,"Simon Barrett",41967,0.02,251802,16.4913392857143
+"Abraham Lincoln: Vampire Hunter",2012,105,"Action, Fantasy, Horror",5.9,"Timur Bekmambetov",158657,37.52,936076.3,51.9815966386555
+"Candyman",2021,91,"Horror, Thriller",5.9,"Nia DaCosta",70762,61.19,417495.8,36.1348695652174
+"Saw IV",2007,93,"Horror, Mystery, Thriller",5.9,"Darren Lynn Bousman",155334,63.3,916470.6,51.9815966386555
+"Child's Play 2",1990,84,"Horror, Thriller",5.9,"John Lafia",54569,28.5,321957.1,36.1348695652174
+"Pride and Prejudice and Zombies",2016,108,"Action, Comedy, Fantasy",5.8,"Burr Steers",58473,10.91,339143.4,36.1348695652174
+"The Purge I",2013,85,"Horror, Sci-Fi, Thriller",5.7,"James DeMonaco",231096,64.47,1317247.2,51.9815966386555
+"Buffy the Vampire Slayer",1992,86,"Action, Comedy, Fantasy",5.7,"Fran Rubel Kuzui",47048,16.62,268173.6,16.4913392857143
+"Underworld: Blood Wars",2016,91,"Action, Adventure, Fantasy",5.7,"Anna Foerster",78499,30.35,447444.3,36.1348695652174
+"I Spit on Your Grave 2",2013,106,"Horror, Thriller",5.7,"Steven R. Monroe",31209,0,177891.3,16.4913392857143
+"Clown",2014,100,"Horror, Thriller",5.7,"Jon Watts",25286,0.06,144130.2,16.4913392857143
+"The Last Exorcism",2010,87,"Horror, Mystery, Thriller",5.7,"Daniel Stamm",50953,41.03,290432.1,36.1348695652174
+"The Meg",2018,113,"Action, Horror, Sci-Fi",5.6,"Jon Turteltaub",181197,143.01,1014703.2,51.9815966386555
+"Beast I",2022,93,"Action, Adventure, Drama",5.6,"Baltasar Kormákur",34598,31.85,193748.8,16.4913392857143
+"The Texas Chainsaw Massacre 2",1986,101,"Comedy, Horror",5.6,"Tobe Hooper",35333,8.03,197864.8,16.4913392857143
+"A Nightmare on Elm Street 4: The Dream Master",1988,93,"Horror",5.6,"Renny Harlin",58602,49.37,328171.2,36.1348695652174
+"Hatchet",2006,93,"Comedy, Horror, Thriller",5.6,"Adam Green",32231,0.16,180493.6,16.4913392857143
+"Gretel & Hansel",2020,87,"Fantasy, Horror, Mystery",5.5,"Oz Perkins",32438,15.35,178409,16.4913392857143
+"The Last Days on Mars",2013,98,"Adventure, Horror, Sci-Fi",5.5,"Ruairi Robinson",38026,0.02,209143,16.4913392857143
+"Hellraiser III: Hell on Earth",1992,97,"Horror",5.5,"Anthony Hickox",33318,12.53,183249,16.4913392857143
+"Diary of the Dead",2007,95,"Fantasy, Horror, Sci-Fi",5.5,"George A. Romero",48380,0.96,266090,16.4913392857143
+"Annabelle I",2014,99,"Horror, Mystery, Thriller",5.4,"John R. Leonetti",166025,84.27,896535,51.9815966386555
+"Red Riding Hood",2011,100,"Fantasy, Horror, Mystery",5.4,"Catherine Hardwicke",113995,37.66,615573,51.9815966386555
+"Tusk I",2014,102,"Comedy, Horror",5.3,"Kevin Smith",58591,1.82,310532.3,36.1348695652174
+"Scary Movie 2",2001,83,"Comedy, Horror",5.3,"Keenen Ivory Wayans",167717,71.31,888900.1,51.9815966386555
+"Resident Evil: Retribution",2012,95,"Action, Horror, Sci-Fi",5.3,"Paul W.S. Anderson",146296,42.35,775368.8,51.9815966386555
+"The Covenant",2006,97,"Action, Adventure, Fantasy",5.2,"Renny Harlin",50834,23.29,264336.8,36.1348695652174
+"Flatliners",2017,109,"Drama, Horror, Mystery",5.2,"Niels Arden Oplev",49170,16.88,255684,16.4913392857143
+"The Strangers: Prey at Night",2018,85,"Horror",5.2,"Johannes Roberts",32686,24.43,169967.2,16.4913392857143
+"Halloween III: Season of the Witch",1982,98,"Horror, Mystery, Sci-Fi",5.1,"Tommy Lee Wallace",57269,14.4,292071.9,36.1348695652174
+"47 Meters Down: Uncaged",2019,90,"Adventure, Drama, Horror",5,"Johannes Roberts",28859,22.26,144295,16.4913392857143
+"Paranormal Activity: The Marked Ones",2014,84,"Horror, Mystery",5,"Christopher Landon",44216,32.46,221080,16.4913392857143
+"Seed of Chucky",2004,87,"Comedy, Horror, Thriller",4.9,"Don Mancini",47581,17.08,233146.9,16.4913392857143
+"Ghosts of Mars",2001,98,"Action, Horror, Sci-Fi",4.9,"John Carpenter",56213,8.43,275443.7,36.1348695652174
+"Darkness Falls",2003,86,"Fantasy, Horror, Mystery",4.9,"Jonathan Liebesman",32613,32.55,159803.7,16.4913392857143
+"Valentine",2001,96,"Horror, Mystery, Thriller",4.9,"Jamie Blanks",29306,20.38,143599.4,16.4913392857143
+"Texas Chainsaw",2013,92,"Horror, Thriller",4.8,"John Luessenhop",53682,34.34,257673.6,36.1348695652174
+"Meet the Blacks",2016,94,"Comedy, Horror",4.8,"Deon Taylor",37146,9.09,178300.8,16.4913392857143
+"I Still Know What You Did Last Summer",1998,100,"Horror, Mystery, Thriller",4.7,"Danny Cannon",76322,40,358713.4,36.1348695652174
+"Freddy's Dead: The Final Nightmare",1991,89,"Fantasy, Horror",4.7,"Rachel Talalay",48694,34.87,228861.8,16.4913392857143
+"Pulse I",2006,90,"Horror, Sci-Fi, Thriller",4.7,"Jim Sonzero",30021,20.26,141098.7,16.4913392857143
+"Paranormal Activity 4",2012,88,"Horror, Mystery",4.6,"Henry Joost",68431,53.92,314782.6,36.1348695652174
+"Friday the 13th Part VIII: Jason Takes Manhattan",1989,100,"Adventure, Horror, Thriller",4.5,"Rob Hedden",40404,14.34,181818,16.4913392857143
+"The Human Centipede (First Sequence)",2009,92,"Horror",4.4,"Tom Six",82947,0.18,364966.8,36.1348695652174
+"Jason X",2001,92,"Action, Horror, Sci-Fi",4.4,"James Isaac",58799,13.12,258715.6,36.1348695652174
+"The Devil Inside",2012,83,"Horror",4.2,"William Brent Bell",36661,53.26,153976.2,16.4913392857143
+"One Missed Call",2008,87,"Horror, Mystery",4,"Eric Valette",33249,26.88,132996,16.4913392857143
+"Piranha 3DD",2012,83,"Comedy, Horror, Sci-Fi",3.8,"John Gulager",44248,0.38,168142.4,16.4913392857143
+"Jaws 3-D",1983,99,"Adventure, Horror, Thriller",3.7,"Joe Alves",46082,45.52,170503.4,16.4913392857143
+"I Know Who Killed Me",2007,105,"Horror, Mystery, Thriller",3.6,"Chris Sivertson",30446,7.5,109605.6,16.4913392857143
+"Jaws: The Revenge",1987,89,"Adventure, Horror, Thriller",3,"Joseph Sargent",47708,20.76,143124,16.4913392857143
